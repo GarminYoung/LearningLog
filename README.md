@@ -16,6 +16,7 @@ python manage.py runserver
 ```
 4.按照提示在浏览器打开该项目
 默认访问http://127.0.0.1:8000/
+<br>
 5.使用快捷键停用服务器
 Ctrl + C
 
